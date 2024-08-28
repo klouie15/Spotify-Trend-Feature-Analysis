@@ -1,5 +1,5 @@
 
-# Spotify-Song-Data-Analysis
+# Spotify-Trend-Feature-Analysis
 ## Introduction
 We will be extracting song data from the Spotify API and using data analysis tools such as statistical tests and machine learning models to come to conclusions about the questions we have about the data.
 
